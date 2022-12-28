@@ -1,11 +1,11 @@
-/*padding - espaçamento de margens*/
-/*gap - espaçamento de elementos quando aplicado display*/
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+/*padding - espaçamento de margens*/
+/*gap - espaçamento de elementos quando aplicado display*/
 
 ul {
     /*sem pontinhos de lista*/
