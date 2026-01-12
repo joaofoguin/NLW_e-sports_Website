@@ -1,6 +1,6 @@
 # NLW e-Sports
 
-Um programa feito com HTML, CSS e JS, para portifólio e treino de front-end.
+Um programa feito com HTML e CSS, para portifólio e treino de front-end.
 
 ![preview] (./assets/preview.png)
 Você pode visualizar o site funcionando a partir do link: 
